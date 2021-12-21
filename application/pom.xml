@@ -58,7 +58,7 @@
         <dependency>
             <groupId>de.codecentric</groupId>
             <artifactId>spring-boot-admin-starter-client</artifactId>
-            <version>1.5.4</version>
+            <version>1.5.7</version>
         </dependency>
 
         <!--actuator-->
@@ -117,13 +117,13 @@
         <dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger-ui</artifactId>
-            <version>2.2.2</version>
+            <version>2.10.0</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger2</artifactId>
-            <version>2.2.2</version>
+            <version>2.10.0</version>
             <scope>compile</scope>
         </dependency>
 
@@ -149,7 +149,7 @@
         <dependency>
             <groupId>io.qameta.allure</groupId>
             <artifactId>allure-junit4</artifactId>
-            <version>2.7.0</version>
+            <version>2.13.7</version>
         </dependency>
 
     </dependencies>
